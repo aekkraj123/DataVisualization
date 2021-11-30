@@ -1,0 +1,16 @@
+"""region""","""subregion""","""key""","""value"""
+"""Oceania""","""Australia and New Zealand""","""Australia""",21
+"""Europe""","""Western Europe""","""Austria""",19
+"""Europe""","""Western Europe""","""Belgium""",23
+"""Americas""","""Northern America""","""Canada""",20
+"""Europe""","""Eastern Europe""","""Czech Republic""",12.8
+"""Europe""","""Western Europe""","""France""",26.7
+"""Europe""","""Southern Europe""","""Italy""",20.8
+"""Asia""","""Eastern Asia""","""Japan""",10.9
+"""Asia""","""Eastern Asia""","""Korea""",29.5
+"""Americas""","""Central America""","""Mexico""",50
+"""Oceania""","""Australia and New Zealand""","""New Zealand""",15.6
+"""Europe""","""Southern Europe""","""Spain""",21.6
+"""Europe""","""Northern Europe""","""Sweden""",24.2
+"""Europe""","""Northern Europe""","""United Kingdom""",39
+"""Americas""","""Northern America""","""United States""",30.8
